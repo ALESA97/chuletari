@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="84f3e069-a31e-4b82-9d4c-5e1617269d5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/chuletari.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuletari/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuletari/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuletari/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chuletari/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuletari/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuletari/chuletari.iml" beforeDir="false" />
+    <list default="true" id="9b98f1e8-d0f5-4ec7-866d-169cff3a0ed2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/chuletari.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuletari.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,24 +25,25 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="matrius" />
+        <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2onrMbdnwYTYvDN3yDnpHHSD5QH" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2onjQyVI2KBqzEndINOs2lSo92y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "menú",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ALESA/Desktop/DAM/programación/chuletari"
   }
@@ -44,11 +51,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84f3e069-a31e-4b82-9d4c-5e1617269d5d" name="Changes" comment="" />
-      <created>1731516133306</created>
+      <changelist id="9b98f1e8-d0f5-4ec7-866d-169cff3a0ed2" name="Changes" comment="" />
+      <created>1731512223582</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731516133306</updated>
+      <updated>1731512223582</updated>
     </task>
     <servers />
   </component>
@@ -63,7 +70,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="menú" />
+                        <option value="matrius" />
                       </list>
                     </value>
                   </entry>
