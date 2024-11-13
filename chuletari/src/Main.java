@@ -58,6 +58,7 @@ public class Main {
             }
 
         } while (opcion != 5); // Repetir hasta que se elija la opción de salir
+        System.out.println("hola estoy probando como va el git. Esto es el main");
 
         //FIN BUCLE MENÚ CON CONTROL DE ERRORES
     }
