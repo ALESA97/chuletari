@@ -49,6 +49,7 @@ public class Main {
                     break;
                 case 4:
                     // Código para la opción 4
+                    System.out.println("probando GIT");
                     System.out.println("codigo caso 4");
                     break;
                 default:
